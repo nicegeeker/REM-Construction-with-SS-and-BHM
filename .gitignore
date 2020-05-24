@@ -1,0 +1,8 @@
+*.xml
+*.tif
+.ipynb_checkpoints
+*.nc
+data/
+images/
+stan_models/
+__pycache__/
