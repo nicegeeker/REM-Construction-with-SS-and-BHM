@@ -1,4 +1,4 @@
-![Graphical Abstract](./images/graphical_abstract.jpg)
+![Graphical Abstract](https://github.com/nicegeeker/REM-Construction-with-SS-and-BHM/raw/master/images/graphical_abstract.jpg)
 
 # Radio Environment Map Construction Based on Spatial Statistics and Bayesian Hierarchical Model
 
